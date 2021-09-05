@@ -1,0 +1,25 @@
+{
+  "name": "tinder-backend",
+  "version": "1.0.0",
+  "description": "Tinder Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MERN",
+    "React",
+    "Node",
+    "MERN",
+    "Express",
+    "Tinder-Clone"
+  ],
+  "author": "Md. Abdullah Al Maruf",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4"
+  }
+}
