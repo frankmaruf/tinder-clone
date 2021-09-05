@@ -1,6 +1,6 @@
 # It's Simple Clone of Tender App
 
-Tinder Clone [Go Live](https://frankmaruf.github.io/tinder-clone).
+<!-- Tinder Clone [Go Live](https://frankmaruf.github.io/tinder-clone). -->
 
 ## Available Scripts
 
